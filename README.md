@@ -1,2 +1,4 @@
 # Juego-AmigoSecreto
  Challenge Amigo secreto 
+Practicando Lógica de Programación: Challenge Amigo secreto - Alura Latam , Etapa Selección: Grupo 8 ONE - Oracle Next Education
+Este proyecto es una aplicación web simple para organizar un juego de Amigo Secreto. Permite a los usuarios agregar los nombres de los participantes, realizar el sorteo de manera aleatoria y reiniciar el juego si es necesario. El proyecto está desarrollado con HTML, CSS y JavaScript. Funcionalidades del juego más detalladas ⭐ Agregar Participantes: Los usuarios pueden agregar nombres de amigos para incluirlos en el sorteo. ⭐ Sortear: El programa realiza una asignación aleatoria para emparejar a cada participante con otro amigo. ⭐ Mostrar Resultados: Una vez completado el sorteo, la aplicación muestra los resultados en pantalla. ⭐ Reiniciar Juego: Permite reiniciar el proceso de sorteo y limpiar la lista de participantes.
